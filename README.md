@@ -1,4 +1,4 @@
-# product-capacity
+# product-chapter
 
 ## Contributing
 
